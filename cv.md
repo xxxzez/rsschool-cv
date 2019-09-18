@@ -21,3 +21,9 @@ I believe that proactive way of life is the best way of life, and the greatest t
   - Assisted senior web developers by supporting design and coding
   - Promoted from front-end to junior web developer in four months and managed a client base.
 
+# Education:
+
+  - HighLoad++ -  IT conference 
+  - CS50 - is an on-campus and online introductory course on computer science from Harvard and, as of 2015, Yale Universities
+  - Awesome Courses - a great source of online courses.
+
