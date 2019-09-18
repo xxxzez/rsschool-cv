@@ -27,3 +27,5 @@ I believe that proactive way of life is the best way of life, and the greatest t
   - CS50 - is an on-campus and online introductory course on computer science from Harvard and, as of 2015, Yale Universities
   - Awesome Courses - a great source of online courses.
 
+# English level - B1 (intermediate)
+[![N|Solid](https://image.flaticon.com/icons/png/128/24/24233.png)](https://github.com/xxxzez)
