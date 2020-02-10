@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cv{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+img{
+    width: 20%;
+    height: 20%;
+}
